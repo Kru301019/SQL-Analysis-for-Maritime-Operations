@@ -1,35 +1,23 @@
-# Maritime Business Insights: SQL Analysis & Database Design
+# SQL-Analysis-for-Maritime-Operations
+
 A comprehensive database solution for efficient boat management.
 
 Table of Contents
 
 # About the Project
+This project focuses on analyzing operational and financial data for a fictional maritime services company (Solent). Using PostgreSQL, I designed a normalized relational database and wrote analytical SQL queries to generate actionable business insights.
 
-Features
-ERD and Data Design
-Technologies Used
-Getting Started
-Usage
-Future Improvements
-Acknowledgments
-About the Project
-This project is a database management system created for the fictional company Solent. It aims to streamline boat management processes by handling customer data, staff information, service tracking, and revenue analysis.
-The system is designed to be secure, efficient, and compliant with data protection regulations.
+The goal of the project is not system development, but business analysis — understanding revenue patterns, customer behaviour, service utilization, and operational efficiency through structured data.
 
-# Features
 
-Customer Management: Tracks client information and their bookings.
-Staff Management: Records employee details and their roles.
-Service Tracking: Monitors maintenance, repairs, and scheduling.
-Yard Operations: Handles boat storage and docking logistics.
-Revenue Analysis: Provides insights into financial performance.
-Optimized Queries: Ensures efficient data retrieval and updates.
-Role-Based Access: Implements security measures for different users.
+# Data Model & Design
 
-# ERD and Data Design
+The database follows a normalized schema to reduce redundancy and ensure reliable analysis. The data model supports efficient querying for business reporting and insight generation.
 
-The database design follows a normalized schema to avoid redundancy and improve performance. The Entity-Relationship Diagram (ERD) and a detailed data dictionary are included in the repository:
-ERD Diagram
+Included in the repository:
+
+Entity-Relationship Diagram (ERD)
+
 Data Dictionary
 
 # Technologies Used
@@ -63,5 +51,4 @@ Implement API endpoints for integration with other systems.
 Expand reporting capabilities with advanced analytics.
 
 # Acknowledgments
-This project was developed as part of coursework for the Database Systems module. Special thanks to University of Portsmouth and Dr. Val Adamescu for guidance.
 This project was developed as part of coursework for the Database Systems module. Special thanks to University of Portsmouth and Dr. Val Adamescu for guidance.
