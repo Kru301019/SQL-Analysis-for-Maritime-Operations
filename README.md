@@ -7,7 +7,7 @@ Table of Contents
 # About the Project
 This project focuses on analyzing operational and financial data for a fictional maritime services company (Solent). Using PostgreSQL, I designed a normalized relational database and wrote analytical SQL queries to generate actionable business insights.
 
-The goal of the project is not system development, but business analysis — understanding revenue patterns, customer behaviour, service utilization, and operational efficiency through structured data.
+The goal of the project is business analysis — understanding revenue patterns, customer behaviour, service utilization, and operational efficiency through structured data.
 
 
 # Data Model & Design
